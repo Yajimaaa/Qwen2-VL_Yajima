@@ -6,7 +6,7 @@ from pathlib import Path
 import torch
 import torch.nn.functional as F
 import os
-from table_generation import plot_confusion_matrix_with_text2
+from Confusion_Matrix_generation import plot_confusion_matrix_with_text2
 from IPython import embed
 
 
